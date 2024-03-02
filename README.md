@@ -1,5 +1,5 @@
 👋 Hi, I’m @Sagar Singh .
-👀 I’m interested in App Development.
+👀 I’m interested in Software Development.
 🌱 I’m currently learning Application Dev.
 💞️ I’m am Student.
 📫 How to reach me at Gmail sagart8923@gmail.com
